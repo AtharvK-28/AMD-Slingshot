@@ -17,6 +17,11 @@ Dynamic A* Escape Routing: The system doesn't just panic; it acts. Upon detectin
 
 Privacy by Design: Zero facial recognition. The system tracks pixels, vectors, and bounding boxes, ensuring 100% compliance with global surveillance privacy laws.
 
+
+Tech Architecture -
+<img width="5688" height="2440" alt="TechArchitectureCrowdSense" src="https://github.com/user-attachments/assets/0ba7c48c-7369-4790-b908-affd0cb8c0ca" />
+
+
 🗂️ Project Structure
 The system is split into a React-based command center frontend and a Python/FastAPI computer vision backend.
 
